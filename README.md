@@ -92,7 +92,7 @@ cd SyncFit
 |------|-----------|------|--------|
 | Team Lead | 252-15-887 | *Nosib Biswas* | [@NOSIBBiswas22](https://github.com/NOSIBBiswas22) |
 | Member 2 | 252-15-042 | *name* | [@username](https://github.com/username) |
-| Member 3 | 252-15-476 | *name* | [@username](https://github.com/username) |
+| Member 3 | 252-15-476 | *Abrar Arham* | [@abrararham476](https://github.com/abrararham476) |
 | Member 4 | 252-15-551 | *Addoito Basak Rajkumar* | [@rajkumarbasak565](https://github.com/rajkumarbasak565) |
 | Member 5 | 252-15-542 | *Ovi Musully* | [@username](https://github.com/username) |
 
